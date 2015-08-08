@@ -2,4 +2,5 @@
 __author__ = "Gregory A. Feiden <gregory.a.feiden@gmail.com>"
 __contributors__ = "[]"
 
-from shellaccrete import *
+from . import shellaccrete
+from .shellaccrete import *
